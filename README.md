@@ -4,6 +4,10 @@ Electron checkup for macOS users
 
 Ref: <https://infosec.exchange/@TomSellers/111126352647377681>
 
+## Install
+
+Universal macOS binaries are at <https://gitlab.com/hrbrmstr/positron/-/releases/>.
+
 ## Build
 
 ```bash
