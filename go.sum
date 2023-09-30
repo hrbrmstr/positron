@@ -1,3 +1,5 @@
+github.com/Masterminds/semver/v3 v3.2.1 h1:RN9w6+7QoMeJVGyfmbcgs28Br8cvmnucEXnY0rYXWg0=
+github.com/Masterminds/semver/v3 v3.2.1/go.mod h1:qvl/7zhW3nngYb5+80sSMF+FG2BjYrf8m9wsX0PNOMQ=
 github.com/blacktop/go-dwarf v1.0.9 h1:eT/L7gt0gllvvgnRXY0MFKjNB6+jtOY5DTm2ynVX2dY=
 github.com/blacktop/go-dwarf v1.0.9/go.mod h1:4W2FKgSFYcZLDwnR7k+apv5i3nrau4NGl9N6VQ9DSTo=
 github.com/blacktop/go-macho v1.1.164 h1:UDxkdrW6utHdmBa3bXi0HBNSd9MZ/oB7HoVk7qAbu6U=
